@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test14" max_length="40" name="x_appe_test141_test14" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Test14" max_length="40" name="test14" type="string"/>
+    </element>
+</database>
